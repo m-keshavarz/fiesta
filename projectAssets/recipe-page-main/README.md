@@ -14,7 +14,7 @@ Thanks for checking out this front-end coding challenge.
 
 Your challenge is to build out this recipe page and get it looking as close to the design as possible.
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+Ys you like to help you complete the challenge. So if you've ou can use any toolgot something you'd like to practice, feel free to give it a go.
 
 Want some support on the challenge? [Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
 
