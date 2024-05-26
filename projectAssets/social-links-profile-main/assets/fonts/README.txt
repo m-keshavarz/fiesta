@@ -1,26 +1,27 @@
-Outfit Variable Font
-====================
+Inter Variable Font
+===================
 
-This download contains Outfit as both a variable font and static fonts.
+This download contains Inter as both a variable font and static fonts.
 
-Outfit is a variable font with this axis:
+Inter is a variable font with these axes:
+  slnt
   wght
 
 This means all the styles are contained in a single file:
-  Outfit-VariableFont_wght.ttf
+  Inter-VariableFont_slnt,wght.ttf
 
 If your app fully supports variable fonts, you can now pick intermediate styles
 that aren’t available as static fonts. Not all apps support variable fonts, and
-in those cases you can use the static font files for Outfit:
-  static/Outfit-Thin.ttf
-  static/Outfit-ExtraLight.ttf
-  static/Outfit-Light.ttf
-  static/Outfit-Regular.ttf
-  static/Outfit-Medium.ttf
-  static/Outfit-SemiBold.ttf
-  static/Outfit-Bold.ttf
-  static/Outfit-ExtraBold.ttf
-  static/Outfit-Black.ttf
+in those cases you can use the static font files for Inter:
+  static/Inter-Thin.ttf
+  static/Inter-ExtraLight.ttf
+  static/Inter-Light.ttf
+  static/Inter-Regular.ttf
+  static/Inter-Medium.ttf
+  static/Inter-SemiBold.ttf
+  static/Inter-Bold.ttf
+  static/Inter-ExtraBold.ttf
+  static/Inter-Black.ttf
 
 Get started
 -----------
