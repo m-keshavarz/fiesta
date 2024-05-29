@@ -38,6 +38,7 @@ const config = {
       fontFamily: {
         youngSerif: "youngSerif",
         outline: "outline",
+        inter: ["var(--font-inter)"],
       },
       borderRadius: {
         lg: "var(--radius)",
