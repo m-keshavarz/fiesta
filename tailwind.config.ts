@@ -30,6 +30,10 @@ const config = {
         },
         wengeBrown: "#5f574e",
         darkCharcoal: "#302d2c",
+        inchWorm: "#c5f82a",
+        mineShaft: "#333333",
+        shark: "#1f1f1f",
+        woodsmoke: "#141414",
       },
       screens: {
         mobile: "375px",
@@ -58,6 +62,9 @@ const config = {
       animation: {
         "accordion-down": "accordion-down 0.2s ease-out",
         "accordion-up": "accordion-up 0.2s ease-out",
+      },
+      transitionDuration: {
+        "3000": "3000ms",
       },
     },
   },

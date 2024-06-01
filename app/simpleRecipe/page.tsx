@@ -5,9 +5,7 @@ import OmeletteImage from "@/assets/recipe-page-main/assets/images/image-omelett
 const SimpleRecipe = () => {
   return (
     <>
-      <Link href="/">
-        Home
-      </Link>
+      <Link href="/">Home</Link>
       <div className="p-0 md:py-28 bg-roseWhite flex justify-center text-darkCharcoal font-outline">
         <div className="bg-white pb-8 md:p-8 md:rounded-2xl md:w-3/5">
           <Image
@@ -51,7 +49,7 @@ const SimpleRecipe = () => {
                     key={desc}
                     className="marker:text-raspbery-700 marker:text-xs py-2 pl-4"
                   >
-                    <span className="">{desc}</span>
+                    <span>{desc}</span>
                   </li>
                 );
               })}

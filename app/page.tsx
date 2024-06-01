@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { links } from "@/lib/links";
 
 export default function Home() {
   return (
@@ -7,11 +8,13 @@ export default function Home() {
         Welcome to my components project
       </h1>
       <ul className="list-disc pl-4 underline">
-        <li>
-          <Link href="/simpleRecipe" className="hover:text-orange-800">
-            Simple Omelette Recipe
-          </Link>
-        </li>
+        {links.map(({ label, link }) => {
+          return (
+            <li key={link} className="hover:text-orange-800">
+              <Link href={link}>{label}</Link>
+            </li>
+          );
+        })}
       </ul>
     </div>
   );
