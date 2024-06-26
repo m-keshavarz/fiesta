@@ -2,6 +2,8 @@
 
 import Image from "next/image";
 import Avatar from "@/assets/social-links-profile-main/assets/images/avatar-jessica.jpeg";
+import alertMe from "../modules/alertMe";
+alertMe
 
 const SocialLinksProfile = () => {
   return (

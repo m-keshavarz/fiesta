@@ -7,4 +7,8 @@ export const links = [
     label: "Social Profile Links",
     link: "/socialLinksProfile",
   },
+  {
+    label: "Playground",
+    link: "/playground",
+  },
 ];
